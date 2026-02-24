@@ -5,5 +5,6 @@ public class No_009 {
         Scanner sc = new Scanner(System.in);
         String x = sc.next();
 
+
     }
 }
